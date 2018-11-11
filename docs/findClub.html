@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<title> FIND CLUBS </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+<body>
+
+    <div class = "upperLogo">
+        <img src = "ClubHubMiniLogo.png" onClick = "homePage()" width = "70" height = "70">       
+    </div>
+    
+    <div class = "top">
+            <img src = "CHLogo.png" onClick = "homePage()" width = "330" height = "42"> 
+    </div>
+
+    <div class = "listClubs">
+        <iframe id='iframe' src='myData.txt' onload='readfile()' width = "100%" height = "600"> </iframe>
+    </div>
+    
+
+    <script>
+        function homePage() {
+            window.location.href = "index.html";
+        }    
+
+        function readfile() {
+            document.getElementById('iframe').contentDocument.body.firstChild.innerHTML;
+        }
+    </script>
+
+</body>
+
+</html>
