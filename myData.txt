@@ -1,0 +1,29 @@
+Club Name: Asian American Student Union
+Description: AASU is dedicated to support Asian Americans and all cultures.
+Next Meeting: Wednesday, November 14 @ 6pm
+Location: ESJ 0124
+
+Club Name: Association of Women in Computing
+Description: AWC uplifts and educates young women pursuing Computer Science and STEM fields.
+Next Meeting: Technica (Nov 10-11)
+Location: Reckord Armory
+
+Club Name: Code: Black
+Description: Code: Black serves to promote African Americans pursuing Computer Science. 
+Next Meeting: Tuesday, November 13 @ 5pm
+Location: CSIC 1121
+
+Club Name: Economic Association of Maryland
+Description: EAM is primarily of economics students who want to further their business skills.
+Next Meeting: Thursday, November 15 @6:30pm
+Location: SYM 1325
+
+Club Name: Terrapin Trail Club
+Description: TTC promotes outdoor activities and community bonding. 
+Next Meeting: Monday, November 12 @ 7pm
+Location: Art Soc 1321
+
+Club Name: UMD Club Gymnastics
+Description: UMD CG provides open gym on all equipment (floor, bars, beam, vault). Come try out new skills, beginners welcomed! 
+Next Meeting: Tuesday, November 13 @ 7:30pm
+Location: School of Public Health Gym

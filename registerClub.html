@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<title> REGISTER CLUBS </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+<head> <title> FIeld 1 & 2</title></head>
+<body>
+
+    <div class = "upperLogo">
+        <img src = "ClubHubMiniLogo.png" onClick = "homePage()" width = "70" height = "70">       
+    </div>
+
+    <div class = "top">
+        <img src = "CHLogo.png" onClick = "homePage()" width = "330" height = "42"> 
+    </div>
+
+    <div class = "entryBox"></div>
+
+
+    <form autocomplete ="off" class = "entries" action= "submittedPage.html">
+        Club Name:<br>
+        <input size = "35" type="text" name="clubname"><br>
+        Description:<br>
+        <input size = "35" type="text" name="description"><br>
+        Email:<br>
+        <input size = "35" type="text" name="email"><br>
+        Upcoming Meeting:<br>
+        <input size = "35" type="text" name="upcoming"><br>
+        Location:<br>
+        <input size = "35" type="text" name="location"><br>
+        <input type="submit" name="submit" value="Submit">
+    </form>         
+    
+    <script>
+        function homePage() {
+            window.location.href = "index.html";
+        }    
+        function submittedPage() {
+            window.location.href = "submittedPage.html";
+        }
+
+    </script>
+
+</body>
+
+</html>
